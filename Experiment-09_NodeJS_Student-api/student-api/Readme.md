@@ -47,8 +47,8 @@ Add a Student
 POST /api/students
 Body:
 {
-  "name": "Swayam",
-  "age": 21,
+  "name": "Abhi",
+  "age": 20,
   "course": " Mathematics"
 }
 
@@ -61,8 +61,8 @@ SAMPLE OUTPUT
 [
   {
     "id": 1,
-    "name": "Swayam",
-    "age": 21,
+    "name": "Abhi",
+    "age": 20,
     "course": "Mathematics"
   }
 ]
